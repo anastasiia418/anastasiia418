@@ -1,7 +1,7 @@
 # Hi there, I'm Anastasiia! 👋
 
 🌱 **Undergraduate at UCSD**  
-Currently majoring in Cognitive Science with a specialization in Design and Interaction. I love exploring how people interact with technology and finding creative ways to make digital experiences even more delightful!
+Currently majoring in Cognitive Science with a specialization in Design and Interaction. Aspiring to get into software development since I love exploring how people interact with technology and finding creative ways to make digital experiences even more delightful!
 
 💻 **Tech I'm Learning & Using**  
 - JavaScript (and loving React!)
